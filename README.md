@@ -1,7 +1,7 @@
 # C++ Programming Challenges
 Responses to programming challenges at [Cprogramming.com](https://www.cprogramming.com/challenge.html?inl=12px)
 
-##Fill in the blank exercises
+## Fill in the blank exercises
 1. Challenge 1 [_Array input and output_](https://www.cprogramming.com/complete/array.html): When completed, the following program should first fill in (by asking the user for input) and then list all the elements in an array
 2. Challenge 2 [_Guessing Game_](https://www.cprogramming.com/complete/guessing.html): Act as a guessing game in which the user has eight tries to guess a randomly generated number. The program will tell the user each time whether he guessed high or low
 3. Challenge 3 [_Calculator_](https://www.cprogramming.com/complete/calc.html): Act as a basic calculator; it should ask the user to input what type of arithmetic operation he would like, and then ask for the numbers on which the operation should be performed. The calculator should then give the output of the operation.
